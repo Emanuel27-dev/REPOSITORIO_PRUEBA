@@ -10,7 +10,7 @@ public class ejemplo{
 				break;
 			default:
 			System.out.println("No ingresaste el numero correcto");
-
+			break;
 		}
 
 		System.out.print(variable);
